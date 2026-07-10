@@ -14,11 +14,11 @@
 
 I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience building real-world web applications — from authentication systems to PDF invoice generation. I mainly work with **PHP / Laravel**, but I'm equally comfortable jumping into the frontend with **Vue.js**.
 
-- 🔭 Currently working as a **Backend Developer**, previously building features for **LinkAir** — a travel platform for flights, hotels, tours & city breaks
-- 🛠️ Built systems for **user auth, profile management, and PDF ticket/invoice generation** using Laravel & MySQL
-- 🌱 Always sharpening my skills in API design, backend architecture, and modern frontend tooling
-- 💬 Ask me about **Laravel, REST APIs, or database design**
-- 📫 Reach me at **ivancrusca6@gmail.com**
+- Currently working as a **Backend Developer**, previously building features for **LinkAir** — a travel platform for flights, hotels, tours & city breaks
+- Built systems for **user auth, profile management, and PDF ticket/invoice generation** using Laravel & MySQL
+- Always sharpening my skills in API design, backend architecture, and modern frontend tooling
+- Ask me about **Laravel, REST APIs, or database design**
+- Reach me at **ivancrusca6@gmail.com**
 
 ---
 
@@ -78,6 +78,6 @@ I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivancrusca6@gmail.com)
 
-*Thanks for stopping by — always open to interesting backend & full-stack projects!* 🚀
+*Thanks for stopping by — always open to interesting backend & full-stack projects!* 
 
 </div>
