@@ -61,20 +61,6 @@ I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience
 - 👤 Developed the **user profile system**, handling data retrieval and API responses via Laravel Eloquent
 - 🧾 Implemented **PDF generation** for tickets and invoices, including template rendering and database-driven document creation
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tonary26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tonary26&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonary26&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
 
 ### 🌐 Languages I Speak
 
