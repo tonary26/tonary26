@@ -16,7 +16,7 @@ I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience
 - Built systems for **user auth, profile management, and PDF ticket/invoice generation** using Laravel & MySQL
 - Always sharpening my skills in API design, backend architecture, and modern frontend tooling
 - Ask me about **Laravel, REST APIs, or database design**
-- Reach me at **ivancrusca6@gmail.com**
+- Reach me at **devspace3122@gmail.com**
 
 ---
 
@@ -74,7 +74,7 @@ I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience
 
 ### 📫 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivancrusca6@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devspace3122@gmail.com)
 
 *Thanks for stopping by — always open to interesting backend & full-stack projects!* 
 
