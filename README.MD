@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ivan 👋
-
-### Backend Developer who's just as comfortable on the frontend
+# Backend Developer who's just as comfortable on the frontend
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Laravel+%2B+Vue.js+Developer;PHP+Backend+Specialist;Building+Clean+REST+APIs;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
 
