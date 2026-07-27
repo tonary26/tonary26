@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="baner.co_7664202212976987400_4.jpeg" alt="Banner" width="100%" />
+  <img src="baner.co_7664586264988978440_2.jpeg" alt="Banner" width="100%" />
 </div>
 
 <div align="center">
