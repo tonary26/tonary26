@@ -29,18 +29,19 @@ I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience
 <div align="center">
 
 **Languages & Core**
+
 <img src="https://skillicons.dev/icons?i=php,js,html,css&perline=4" height="80"/>
-<br/>
 
 **Frameworks & Libraries**
+
 <img src="https://skillicons.dev/icons?i=laravel,vue,pinia&perline=4" height="80"/>
-<br/>
 
 **Database & Infra**
+
 <img src="https://skillicons.dev/icons?i=mysql,redis,linux&perline=4" height="80"/>
-<br/>
 
 **Tools**
+
 <img src="https://skillicons.dev/icons?i=git,github,postman&perline=4" height="80"/>
 
 </div>
