@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="baner.co_7664202212976987400_4.jpeg" alt="Banner" width="100%" />
+</div>
+
+<div align="center">
 
 # Backend Developer who's just as comfortable on the frontend
 
@@ -10,9 +14,9 @@
 
 ### 🚀 About Me
 
-I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience building real-world web applications — from authentication systems to PDF invoice generation. I mainly work with **PHP / Laravel**, but I'm equally comfortable jumping into the frontend with **Vue.js**.
+I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience building real-world web applications - from authentication systems to PDF invoice generation. I mainly work with **PHP / Laravel**, but I'm equally comfortable jumping into the frontend with **Vue.js**.
 
-- Currently working as a **Backend Developer**, previously building features for **LinkAir** — a travel platform for flights, hotels, tours & city breaks
+- Currently working as a **Backend Developer**, previously building features for **LinkAir** - a travel platform for flights, hotels, tours & city breaks
 - Built systems for **user auth, profile management, and PDF ticket/invoice generation** using Laravel & MySQL
 - Always sharpening my skills in API design, backend architecture, and modern frontend tooling
 - Ask me about **Laravel, REST APIs, or database design**
@@ -25,25 +29,18 @@ I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience
 <div align="center">
 
 **Languages & Core**
-
 <img src="https://skillicons.dev/icons?i=php,js,html,css&perline=4" height="80"/>
-
 <br/>
 
 **Frameworks & Libraries**
-
 <img src="https://skillicons.dev/icons?i=laravel,vue,pinia&perline=4" height="80"/>
-
 <br/>
 
 **Database & Infra**
-
 <img src="https://skillicons.dev/icons?i=mysql,redis,linux&perline=4" height="80"/>
-
 <br/>
 
 **Tools**
-
 <img src="https://skillicons.dev/icons?i=git,github,postman&perline=4" height="80"/>
 
 </div>
@@ -53,12 +50,12 @@ I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience
 ### 💼 Experience Highlights
 
 **Junior Backend Developer @ LinkAir** · *June 2024 – August 2025*
+
 > LinkAir is a travel platform for flight booking, hotel booking, tours, and city break trips.
 
-- 🔐 Built a full **user registration & authentication system** in Laravel — validation, password hashing, email verification, login, and password recovery
+- 🔐 Built a full **user registration & authentication system** in Laravel - validation, password hashing, email verification, login, and password recovery
 - 👤 Developed the **user profile system**, handling data retrieval and API responses via Laravel Eloquent
 - 🧾 Implemented **PDF generation** for tickets and invoices, including template rendering and database-driven document creation
-
 
 ### 🌐 Languages I Speak
 
@@ -76,6 +73,6 @@ I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devspace3122@gmail.com)
 
-*Thanks for stopping by — always open to interesting backend & full-stack projects!* 
+*Thanks for stopping by — always open to interesting backend & full-stack projects!*
 
 </div>
