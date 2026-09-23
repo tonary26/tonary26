@@ -31,7 +31,7 @@ I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience
 **Languages & Core**
 
 <img src="https://skillicons.dev/icons?i=php,js,html,css&perline=4" height="80"/>
-<img src="https://go.dev/images/gophers/front.svg" alt="Go Gopher" height="80"/>
+<img src="https://go.dev/images/favicon-gopher.svg" alt="Go Gopher" width="80" height="80"/>
 
 **Frameworks & Libraries**
 
