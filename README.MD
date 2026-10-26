@@ -1,79 +1,56 @@
 <div align="center">
-  <img src="baner.co_7664586264988978440_2.jpeg" alt="Banner" width="100%" />
-</div>
+  <img src="baner.co_7664586264988978440_2.jpeg" alt="Tonary — backend developer" width="100%" />
 
-<div align="center">
+  <h1>Backend engineer with a frontend side</h1>
 
-# Backend Developer who's just as comfortable on the frontend
+  <p>
+    PHP / Laravel&nbsp;&nbsp;·&nbsp;&nbsp;Go / chi&nbsp;&nbsp;·&nbsp;&nbsp;Vue.js&nbsp;&nbsp;·&nbsp;&nbsp;PostgreSQL / MySQL
+  </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Laravel+%2B+Vue.js+Developer;PHP+Backend+Specialist;Building+Clean+REST+APIs;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-
-</div>
-
----
-
-### 🚀 About Me
-
-I'm a **Backend Developer** based in Chisinau, Moldova, with hands-on experience building real-world web applications - from authentication systems to PDF invoice generation. I mainly work with **PHP / Laravel**, but I'm equally comfortable jumping into the frontend with **Vue.js**.
-
-- Currently working as a **Backend Developer**, previously building features for **LinkAir** - a travel platform for flights, hotels, tours & city breaks
-- Built systems for **user auth, profile management, and PDF ticket/invoice generation** using Laravel & MySQL
-- Always sharpening my skills in API design, backend architecture, and modern frontend tooling
-- Ask me about **Laravel, REST APIs, or database design**
-- Reach me at **devspace3122@gmail.com**
-
----
-
-### 🧰 Tech Stack
-
-<div align="center">
-
-**Languages & Core**
-
-<img src="https://skillicons.dev/icons?i=php,js,go,html,css&perline=5" height="80"/>
-
-**Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=laravel,vue,pinia&perline=4" height="80"/>
-
-**Database & Infra**
-
-<img src="https://skillicons.dev/icons?i=mysql,redis,linux&perline=4" height="80"/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman&perline=4" height="80"/>
-
+  <p>
+    I build web products from the database schema and API contract<br />
+    to the interface people actually use.
+  </p>
 </div>
 
 ---
 
-### 💼 Experience Highlights
+## About
 
-**Junior Backend Developer @ LinkAir** · *June 2024 – August 2025*
+I'm a backend developer based in Chisinau, Moldova. My main stack is **PHP and Laravel**, and I also build services in **Go** with **chi**, **PostgreSQL**, and **MinIO**. When a product needs more than an API, I work across the frontend with **Vue.js** and **Pinia**.
 
-> LinkAir is a travel platform for flight booking, hotel booking, tours, and city break trips.
+I care about code that stays understandable after the feature ships: clear boundaries, predictable APIs, sensible database design, and infrastructure that does not get in the way.
 
-- 🔐 Built a full **user registration & authentication system** in Laravel - validation, password hashing, email verification, login, and password recovery
-- 👤 Developed the **user profile system**, handling data retrieval and API responses via Laravel Eloquent
-- 🧾 Implemented **PDF generation** for tickets and invoices, including template rendering and database-driven document creation
+## Stack
 
-### 🌐 Languages I Speak
+| Backend | Data & storage | Frontend | Workflow |
+|:---:|:---:|:---:|:---:|
+| PHP · Laravel | PostgreSQL · MySQL | JavaScript · Vue.js | Git · GitHub |
+| Go · chi | Redis · MinIO | Pinia · HTML · CSS | Linux · Postman |
 
-| Language | Level |
-|---|---|
-| 🇷🇺 Russian | Native |
-| 🇬🇧 English | B1 |
-| 🇲🇩 Romanian | B1 |
+<br />
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,go,postgres,mysql,redis,vue,pinia,js,html,css,linux,git,github,postman&perline=15" alt="Technology stack" />
+</div>
+
+## Experience
+
+### Junior Backend Developer at LinkAir
+
+`June 2024 — August 2025`
+
+LinkAir is a travel platform for flights, hotels, tours, and city breaks. I worked on its Laravel backend: built registration and authentication flows, email verification and password recovery, developed profile APIs with Eloquent, and implemented database-driven PDF generation for tickets and invoices.
+
+## Languages
+
+**Russian** — native&nbsp;&nbsp;·&nbsp;&nbsp;**English** — B1&nbsp;&nbsp;·&nbsp;&nbsp;**Romanian** — B1
 
 ---
 
 <div align="center">
-
-### 📫 Let's Connect
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devspace3122@gmail.com)
-
-*Thanks for stopping by — always open to interesting backend & full-stack projects!*
-
+  <p><strong>Open to backend and full-stack projects</strong></p>
+  <a href="mailto:devspace3122@gmail.com">
+    <img src="https://img.shields.io/badge/devspace3122%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
