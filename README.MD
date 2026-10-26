@@ -29,7 +29,7 @@ I care about code that stays understandable after the feature ships: clear bound
 
 ## Experience
 
-### Full-Stack Developer at [Xsort Web Studio](https://xsort.md/en)
+### Full-Stack Developer at Xsort Web Studio
 
 `Around six months`
 
