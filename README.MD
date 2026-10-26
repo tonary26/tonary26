@@ -29,9 +29,11 @@ I care about code that stays understandable after the feature ships: clear bound
 
 ## Experience
 
-### Backend Developer at Xsort Web Studio
+### Full-Stack Developer at [Xsort Web Studio](https://xsort.md/en)
 
-Worked at Xsort Web Studio for around six months, contributing to web projects as a backend developer.
+`Around six months`
+
+Xsort Web Studio is an international IT company with an office in Moldova, developing websites, online stores, complex web services, and mobile applications. I worked there as a full-stack developer across client web projects.
 
 ### Junior Backend Developer at LinkAir
 
