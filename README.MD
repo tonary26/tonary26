@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="baner.co_7664586264988978440_2.jpeg" alt="Tonary — backend developer" width="100%" />
+  <img src="banner.gif" alt="Tonary — backend developer" width="100%" />
 
   <h1>Backend engineer with a frontend side</h1>
 
@@ -23,18 +23,15 @@ I care about code that stays understandable after the feature ships: clear bound
 
 ## Stack
 
-| Backend | Data & storage | Frontend | Workflow |
-|:---:|:---:|:---:|:---:|
-| PHP · Laravel | PostgreSQL · MySQL | JavaScript · Vue.js | Git · GitHub |
-| Go · chi | Redis · MinIO | Pinia · HTML · CSS | Linux · Postman |
-
-<br />
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,go,postgres,mysql,redis,vue,pinia,js,html,css,linux,git,github,postman&perline=15" alt="Technology stack" />
 </div>
 
 ## Experience
+
+### Backend Developer at Xsort Web Studio
+
+Worked at Xsort Web Studio for around six months, contributing to web projects as a backend developer.
 
 ### Junior Backend Developer at LinkAir
 
