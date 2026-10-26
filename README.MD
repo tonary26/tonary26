@@ -17,7 +17,7 @@
 
 ## About
 
-I'm a backend developer based in Chisinau, Moldova. My main stack is **PHP and Laravel**, and I also build services in **Go** with **chi**, **PostgreSQL**, and **MinIO**. When a product needs more than an API, I work across the frontend with **Vue.js** and **Pinia**.
+I'm an 18-year-old backend developer based in Chisinau, Moldova. My main stack is **PHP and Laravel**, and I also build services in **Go** with **chi**, **PostgreSQL**, and **MinIO**. When a product needs more than an API, I work across the frontend with **Vue.js** and **Pinia**.
 
 I care about code that stays understandable after the feature ships: clear boundaries, predictable APIs, sensible database design, and infrastructure that does not get in the way.
 
